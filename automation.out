@@ -1,0 +1,229 @@
+2019-09-01 10:09:390 INFO  TestBase:135 - Initialize Web driver: 5153333
+2019-09-01 10:09:395 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-01 10:09:396 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-01 10:09:408 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-01 10:09:411 INFO  WaitHelper:146 - page is loaded
+2019-09-01 10:09:577 INFO  TestBase:76 - **************testLoginStarted***************
+2019-09-01 10:09:585 INFO  AssertionHelper:22 - making script PASS..
+2019-09-01 10:09:591 INFO  TestBase:94 - **************testLoginFinished***************
+2019-09-01 10:09:96 INFO  TestBase:76 - **************testLogin1Started***************
+2019-09-01 10:09:100 INFO  AssertionHelper:32 - making script FAIL..
+2019-09-01 10:09:524 INFO  TestBase:94 - **************testLogin1Finished***************
+2019-09-01 10:09:630 INFO  TestBase:76 - **************testLogin2Started***************
+2019-09-01 10:09:632 INFO  AssertionHelper:22 - making script PASS..
+2019-09-01 10:09:634 INFO  TestBase:94 - **************testLogin2Finished***************
+2019-09-01 10:09:716 INFO  TestBase:76 - **************testLogin3Started***************
+2019-09-01 10:09:717 INFO  AssertionHelper:32 - making script FAIL..
+2019-09-01 10:09:82 INFO  TestBase:94 - **************testLogin3Finished***************
+2019-09-01 15:09:713 INFO  TestBase:135 - Initialize Web driver: 20105114
+2019-09-01 15:09:762 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-01 15:09:762 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-01 15:09:780 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-01 15:09:788 INFO  WaitHelper:146 - page is loaded
+2019-09-01 15:09:567 INFO  TestBase:76 - **************testLoginStarted***************
+2019-09-01 15:09:578 INFO  AssertionHelper:22 - making script PASS..
+2019-09-01 15:09:588 INFO  TestBase:94 - **************testLoginFinished***************
+2019-09-01 15:09:145 INFO  TestBase:76 - **************testLogin1Started***************
+2019-09-01 15:09:147 INFO  AssertionHelper:32 - making script FAIL..
+2019-09-01 15:09:544 INFO  TestBase:94 - **************testLogin1Finished***************
+2019-09-01 15:09:668 INFO  TestBase:76 - **************testLogin2Started***************
+2019-09-01 15:09:672 INFO  AssertionHelper:22 - making script PASS..
+2019-09-01 15:09:677 INFO  TestBase:94 - **************testLogin2Finished***************
+2019-09-01 15:09:772 INFO  TestBase:76 - **************testLogin3Started***************
+2019-09-01 15:09:774 INFO  AssertionHelper:32 - making script FAIL..
+2019-09-01 15:09:130 INFO  TestBase:94 - **************testLogin3Finished***************
+2019-09-01 15:09:138 INFO  TestBase:135 - Initialize Web driver: 6183447
+2019-09-01 15:09:146 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-01 15:09:151 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-01 15:09:168 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-01 15:09:175 INFO  WaitHelper:146 - page is loaded
+2019-09-01 15:09:388 INFO  TestBase:76 - **************testLoginStarted***************
+2019-09-01 15:09:410 INFO  AssertionHelper:22 - making script PASS..
+2019-09-01 15:09:416 INFO  TestBase:94 - **************testLoginFinished***************
+2019-09-01 15:09:978 INFO  TestBase:76 - **************testLogin1Started***************
+2019-09-01 15:09:28 INFO  AssertionHelper:32 - making script FAIL..
+2019-09-01 15:09:481 INFO  TestBase:94 - **************testLogin1Finished***************
+2019-09-01 15:09:604 INFO  TestBase:76 - **************testLogin2Started***************
+2019-09-01 15:09:705 INFO  AssertionHelper:22 - making script PASS..
+2019-09-01 15:09:707 INFO  TestBase:94 - **************testLogin2Finished***************
+2019-09-01 15:09:825 INFO  TestBase:76 - **************testLogin3Started***************
+2019-09-01 15:09:827 INFO  AssertionHelper:32 - making script FAIL..
+2019-09-01 15:09:154 INFO  TestBase:94 - **************testLogin3Finished***************
+2019-09-01 15:09:599 INFO  TestBase:136 - Initialize Web driver: 5153333
+2019-09-01 15:09:604 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-01 15:09:605 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-01 15:09:617 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-01 15:09:624 INFO  WaitHelper:146 - page is loaded
+2019-09-01 15:09:805 INFO  TestBase:77 - **************testLoginStarted***************
+2019-09-01 15:09:815 INFO  AssertionHelper:22 - making script PASS..
+2019-09-01 15:09:821 INFO  TestBase:95 - **************testLoginFinished***************
+2019-09-01 15:09:444 INFO  TestBase:77 - **************testLogin1Started***************
+2019-09-01 15:09:446 INFO  AssertionHelper:32 - making script FAIL..
+2019-09-01 15:09:834 INFO  TestBase:95 - **************testLogin1Finished***************
+2019-09-01 15:09:921 INFO  TestBase:77 - **************testLogin2Started***************
+2019-09-01 15:09:924 INFO  AssertionHelper:22 - making script PASS..
+2019-09-01 15:09:926 INFO  TestBase:95 - **************testLogin2Finished***************
+2019-09-01 15:09:00 INFO  TestBase:77 - **************testLogin3Started***************
+2019-09-01 15:09:02 INFO  AssertionHelper:32 - making script FAIL..
+2019-09-01 15:09:343 INFO  TestBase:95 - **************testLogin3Finished***************
+2019-09-01 15:09:861 INFO  TestBase:136 - Initialize Web driver: 5153333
+2019-09-01 15:09:866 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-01 15:09:867 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-01 15:09:877 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-01 15:09:881 INFO  WaitHelper:146 - page is loaded
+2019-09-01 15:09:114 INFO  TestBase:77 - **************testLoginStarted***************
+2019-09-01 15:09:124 INFO  AssertionHelper:22 - making script PASS..
+2019-09-01 15:09:142 INFO  TestBase:95 - **************testLoginFinished***************
+2019-09-01 15:09:635 INFO  TestBase:77 - **************testLogin1Started***************
+2019-09-01 15:09:637 INFO  AssertionHelper:32 - making script FAIL..
+2019-09-01 15:09:37 INFO  TestBase:95 - **************testLogin1Finished***************
+2019-09-01 15:09:119 INFO  TestBase:77 - **************testLogin2Started***************
+2019-09-01 15:09:121 INFO  AssertionHelper:22 - making script PASS..
+2019-09-01 15:09:124 INFO  TestBase:95 - **************testLogin2Finished***************
+2019-09-01 15:09:198 INFO  TestBase:77 - **************testLogin3Started***************
+2019-09-01 15:09:200 INFO  AssertionHelper:32 - making script FAIL..
+2019-09-01 15:09:562 INFO  TestBase:95 - **************testLogin3Finished***************
+2019-09-01 15:09:614 INFO  TestBase:138 - Initialize Web driver: 6183447
+2019-09-01 15:09:621 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-01 15:09:625 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-01 15:09:636 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-01 15:09:639 INFO  WaitHelper:146 - page is loaded
+2019-09-01 15:09:860 INFO  TestBase:79 - **************testLoginStarted***************
+2019-09-01 15:09:871 INFO  AssertionHelper:22 - making script PASS..
+2019-09-01 15:09:888 INFO  TestBase:97 - **************testLoginFinished***************
+2019-09-01 15:09:503 INFO  TestBase:79 - **************testLogin1Started***************
+2019-09-01 15:09:622 INFO  AssertionHelper:32 - making script FAIL..
+2019-09-01 15:09:27 INFO  TestBase:97 - **************testLogin1Finished***************
+2019-09-01 15:09:163 INFO  TestBase:79 - **************testLogin2Started***************
+2019-09-01 15:09:165 INFO  AssertionHelper:22 - making script PASS..
+2019-09-01 15:09:168 INFO  TestBase:97 - **************testLogin2Finished***************
+2019-09-01 15:09:259 INFO  TestBase:79 - **************testLogin3Started***************
+2019-09-01 15:09:261 INFO  AssertionHelper:32 - making script FAIL..
+2019-09-01 15:09:764 INFO  TestBase:97 - **************testLogin3Finished***************
+2019-09-01 15:09:617 INFO  TestBase:139 - Initialize Web driver: 5153333
+2019-09-01 15:09:623 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-01 15:09:623 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-01 15:09:634 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-01 15:09:638 INFO  WaitHelper:146 - page is loaded
+2019-09-01 15:09:824 INFO  TestBase:79 - **************testLoginStarted***************
+2019-09-01 15:09:834 INFO  AssertionHelper:22 - making script PASS..
+2019-09-01 15:09:844 INFO  TestBase:98 - **************testLoginFinished***************
+2019-09-01 15:09:483 INFO  TestBase:79 - **************testLogin1Started***************
+2019-09-01 15:09:487 INFO  AssertionHelper:32 - making script FAIL..
+2019-09-01 15:09:883 INFO  TestBase:98 - **************testLogin1Finished***************
+2019-09-01 15:09:987 INFO  TestBase:79 - **************testLogin2Started***************
+2019-09-01 15:09:989 INFO  AssertionHelper:22 - making script PASS..
+2019-09-01 15:09:992 INFO  TestBase:98 - **************testLogin2Finished***************
+2019-09-01 15:09:94 INFO  TestBase:79 - **************testLogin3Started***************
+2019-09-01 15:09:95 INFO  AssertionHelper:32 - making script FAIL..
+2019-09-01 15:09:446 INFO  TestBase:98 - **************testLogin3Finished***************
+2019-09-01 15:09:941 INFO  TestBase:139 - Initialize Web driver: 5153333
+2019-09-01 15:09:946 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-01 15:09:947 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-01 15:09:958 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-01 15:09:961 INFO  WaitHelper:146 - page is loaded
+2019-09-01 15:09:147 INFO  TestBase:79 - **************testLoginStarted***************
+2019-09-01 15:09:157 INFO  AssertionHelper:22 - making script PASS..
+2019-09-01 15:09:160 INFO  AssertionHelper:22 - making script PASS..
+2019-09-01 15:09:167 INFO  TestBase:98 - **************testLoginFinished***************
+2019-09-01 15:09:761 INFO  TestBase:79 - **************testLogin1Started***************
+2019-09-01 15:09:763 INFO  AssertionHelper:32 - making script FAIL..
+2019-09-01 15:09:170 INFO  TestBase:98 - **************testLogin1Finished***************
+2019-09-01 15:09:253 INFO  TestBase:79 - **************testLogin2Started***************
+2019-09-01 15:09:255 INFO  AssertionHelper:22 - making script PASS..
+2019-09-01 15:09:257 INFO  TestBase:98 - **************testLogin2Finished***************
+2019-09-01 15:09:332 INFO  TestBase:79 - **************testLogin3Started***************
+2019-09-01 15:09:335 INFO  AssertionHelper:32 - making script FAIL..
+2019-09-01 15:09:669 INFO  TestBase:98 - **************testLogin3Finished***************
+2019-09-01 15:09:503 INFO  TestBase:139 - Initialize Web driver: 5153333
+2019-09-01 15:09:509 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-01 15:09:510 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-01 15:09:521 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-01 15:09:526 INFO  WaitHelper:146 - page is loaded
+2019-09-01 15:09:762 INFO  TestBase:79 - **************testLoginStarted***************
+2019-09-01 15:09:770 INFO  AssertionHelper:22 - making script PASS..
+2019-09-01 15:09:773 INFO  AssertionHelper:32 - making script FAIL..
+2019-09-01 15:09:166 INFO  TestBase:98 - **************testLoginFinished***************
+2019-09-01 15:09:713 INFO  TestBase:79 - **************testLogin1Started***************
+2019-09-01 15:09:716 INFO  AssertionHelper:32 - making script FAIL..
+2019-09-01 15:09:60 INFO  TestBase:98 - **************testLogin1Finished***************
+2019-09-01 15:09:146 INFO  TestBase:79 - **************testLogin2Started***************
+2019-09-01 15:09:149 INFO  AssertionHelper:22 - making script PASS..
+2019-09-01 15:09:153 INFO  TestBase:98 - **************testLogin2Finished***************
+2019-09-01 15:09:232 INFO  TestBase:79 - **************testLogin3Started***************
+2019-09-01 15:09:235 INFO  AssertionHelper:32 - making script FAIL..
+2019-09-01 15:09:575 INFO  TestBase:98 - **************testLogin3Finished***************
+2019-09-16 08:09:147 INFO  TestBase:133 - Initialize Web driver: 5153333
+2019-09-16 08:09:366 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-16 08:09:367 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-16 08:09:446 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-16 08:09:449 INFO  WaitHelper:146 - page is loaded
+2019-09-16 08:09:904 INFO  TestBase:73 - **************TC001Started***************
+2019-09-16 08:09:916 INFO  TestBase:92 - **************TC001Finished***************
+2019-09-16 08:09:439 INFO  TestBase:133 - Initialize Web driver: 5153333
+2019-09-16 08:09:444 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-16 08:09:445 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-16 08:09:452 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-16 08:09:460 INFO  WaitHelper:146 - page is loaded
+2019-09-16 08:09:719 INFO  TestBase:73 - **************TC001Started***************
+2019-09-16 08:09:09 INFO  TestBase:92 - **************TC001Finished***************
+2019-09-16 08:09:143 INFO  TestBase:133 - Initialize Web driver: 6183447
+2019-09-16 08:09:149 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-16 08:09:149 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-16 08:09:166 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-16 08:09:172 INFO  WaitHelper:146 - page is loaded
+2019-09-16 08:09:345 INFO  TestBase:73 - **************TC001Started***************
+2019-09-16 08:09:213 INFO  TestBase:92 - **************TC001Finished***************
+2019-09-16 08:09:89 INFO  TestBase:134 - Initialize Web driver: 5153333
+2019-09-16 08:09:94 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-16 08:09:95 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-16 08:09:107 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-16 08:09:112 INFO  WaitHelper:146 - page is loaded
+2019-09-16 08:09:408 INFO  TestBase:73 - **************TC001Started***************
+2019-09-16 08:09:525 INFO  TestBase:93 - **************TC001Finished***************
+2019-09-16 08:09:357 INFO  TestBase:134 - Initialize Web driver: 5153333
+2019-09-16 08:09:362 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-16 08:09:363 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-16 08:09:371 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-16 08:09:379 INFO  WaitHelper:146 - page is loaded
+2019-09-16 08:09:593 INFO  TestBase:73 - **************TC001Started***************
+2019-09-16 08:09:09 INFO  TestBase:93 - **************TC001Finished***************
+2019-09-16 08:09:375 INFO  TestBase:134 - Initialize Web driver: 5153333
+2019-09-16 08:09:381 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-16 08:09:382 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-16 08:09:393 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-16 08:09:397 INFO  WaitHelper:146 - page is loaded
+2019-09-16 08:09:618 INFO  TestBase:73 - **************TC001Started***************
+2019-09-16 08:09:534 INFO  TestBase:93 - **************TC001Finished***************
+2019-09-16 08:09:207 INFO  TestBase:73 - **************TC002Started***************
+2019-09-16 08:09:212 INFO  TestBase:93 - **************TC002Finished***************
+2019-09-16 08:09:297 INFO  TestBase:73 - **************TC003Started***************
+2019-09-16 08:09:302 INFO  TestBase:93 - **************TC003Finished***************
+2019-09-16 08:09:391 INFO  TestBase:73 - **************TC004Started***************
+2019-09-16 08:09:396 INFO  TestBase:93 - **************TC004Finished***************
+2019-09-16 09:09:785 INFO  TestBase:145 - Initialize Web driver: 5153333
+2019-09-16 09:09:790 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-16 09:09:791 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-16 09:09:802 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-16 09:09:805 INFO  WaitHelper:146 - page is loaded
+2019-09-16 09:09:988 INFO  TestBase:81 - **************TC001Started***************
+2019-09-16 09:09:505 INFO  TestBase:104 - **************TC001Finished***************
+2019-09-16 09:09:67 INFO  TestBase:81 - **************TC002Started***************
+2019-09-16 09:09:72 INFO  TestBase:104 - **************TC002Finished***************
+2019-09-16 09:09:158 INFO  TestBase:81 - **************TC003Started***************
+2019-09-16 09:09:172 INFO  TestBase:104 - **************TC003Finished***************
+2019-09-16 09:09:267 INFO  TestBase:81 - **************TC004Started***************
+2019-09-16 09:09:271 INFO  TestBase:104 - **************TC004Finished***************
+2019-09-16 09:09:604 INFO  TestBase:145 - Initialize Web driver: 5153333
+2019-09-16 09:09:610 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-16 09:09:610 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-16 09:09:621 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-16 09:09:626 INFO  WaitHelper:146 - page is loaded
+2019-09-16 09:09:828 INFO  TestBase:81 - **************TC001Started***************
+2019-09-16 09:09:829 INFO  TestBase:104 - **************TC001Finished***************
+2019-09-16 09:09:655 INFO  TestBase:81 - **************TC002Started***************
+2019-09-16 09:09:661 INFO  TestBase:104 - **************TC002Finished***************
+2019-09-16 09:09:820 INFO  TestBase:81 - **************TC003Started***************
+2019-09-16 09:09:828 INFO  TestBase:104 - **************TC003Finished***************
+2019-09-16 09:09:955 INFO  TestBase:81 - **************TC004Started***************
+2019-09-16 09:09:962 INFO  TestBase:104 - **************TC004Finished***************

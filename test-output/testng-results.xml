@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9172" started-at="2019-09-16T03:39:14Z" finished-at="2019-09-16T03:39:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9172" started-at="2019-09-16T03:39:14Z" finished-at="2019-09-16T03:39:23Z">
+      <class name="com.Tests.LoginTest2">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.Tests.LoginTest2@c273d3]" name="beforeSuite" is-config="true" duration-ms="225" started-at="2019-09-16T09:09:14Z" finished-at="2019-09-16T09:09:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.Tests.LoginTest2@c273d3]" name="beforeTest" is-config="true" duration-ms="4985" started-at="2019-09-16T09:09:14Z" finished-at="2019-09-16T09:09:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.Tests.LoginTest2@c273d3]" name="beforeMethod" is-config="true" duration-ms="28" started-at="2019-09-16T09:09:19Z" finished-at="2019-09-16T09:09:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Tests.LoginTest2.TC001()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC001()[pri:0, instance:com.Tests.LoginTest2@c273d3]" name="TC001" duration-ms="1990" started-at="2019-09-16T09:09:19Z" finished-at="2019-09-16T09:09:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC001 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.Tests.LoginTest2@c273d3]" name="afterMethod" is-config="true" duration-ms="827" started-at="2019-09-16T09:09:21Z" finished-at="2019-09-16T09:09:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC001 status=SUCCESS method=LoginTest2.TC001()[pri:0, instance:com.Tests.LoginTest2@c273d3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.Tests.LoginTest2@c273d3]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2019-09-16T09:09:22Z" finished-at="2019-09-16T09:09:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Tests.LoginTest2.TC002()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC002()[pri:0, instance:com.Tests.LoginTest2@c273d3]" name="TC002" duration-ms="2" started-at="2019-09-16T09:09:22Z" finished-at="2019-09-16T09:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC002 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.Tests.LoginTest2@c273d3]" name="afterMethod" is-config="true" duration-ms="156" started-at="2019-09-16T09:09:22Z" finished-at="2019-09-16T09:09:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC002 status=SUCCESS method=LoginTest2.TC002()[pri:0, instance:com.Tests.LoginTest2@c273d3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.Tests.LoginTest2@c273d3]" name="beforeMethod" is-config="true" duration-ms="4" started-at="2019-09-16T09:09:22Z" finished-at="2019-09-16T09:09:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Tests.LoginTest2.TC003()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC003()[pri:0, instance:com.Tests.LoginTest2@c273d3]" name="TC003" duration-ms="4" started-at="2019-09-16T09:09:22Z" finished-at="2019-09-16T09:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC003 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.Tests.LoginTest2@c273d3]" name="afterMethod" is-config="true" duration-ms="128" started-at="2019-09-16T09:09:22Z" finished-at="2019-09-16T09:09:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC003 status=SUCCESS method=LoginTest2.TC003()[pri:0, instance:com.Tests.LoginTest2@c273d3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.Tests.LoginTest2@c273d3]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2019-09-16T09:09:22Z" finished-at="2019-09-16T09:09:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Tests.LoginTest2.TC004()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC004()[pri:0, instance:com.Tests.LoginTest2@c273d3]" name="TC004" duration-ms="2" started-at="2019-09-16T09:09:22Z" finished-at="2019-09-16T09:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC004 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.Tests.LoginTest2@c273d3]" name="afterMethod" is-config="true" duration-ms="125" started-at="2019-09-16T09:09:22Z" finished-at="2019-09-16T09:09:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC004 status=SUCCESS method=LoginTest2.TC004()[pri:0, instance:com.Tests.LoginTest2@c273d3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.Tests.LoginTest2@c273d3]" name="afterTest" is-config="true" duration-ms="864" started-at="2019-09-16T09:09:23Z" finished-at="2019-09-16T09:09:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.Tests.LoginTest2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
